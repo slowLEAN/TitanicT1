@@ -11,3 +11,4 @@ Normalizing and standardizing numerical features to improve model performance.
 Visualizing data distributions and removing outliers to ensure data quality.
 
 Saving the cleaned dataset for further use.
+![Screenshot (289)](https://github.com/user-attachments/assets/fe68b56a-231d-4b5c-a716-0f7cf8ff8e74)
